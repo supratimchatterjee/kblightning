@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+body#tinymce.wp-editor {
+	font-family: 'Open Sans', sans-serif;
+	
+}
+body#tinymce.wp-editor p { 
+   width: 90%;
+}
+
+body#tinymce.wp-editor img {
+	max-width: 100%;
+	height: auto;
+}
+
+body#tinymce.wp-editor h1,
+body#tinymce.wp-editor h2,
+body#tinymce.wp-editor h3 {
+	line-height: 1.2em;
+}

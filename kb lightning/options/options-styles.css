@@ -1,0 +1,121 @@
+.tab-holder{
+	float:left;
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+.tab{
+	float: left;
+	margin-right: 15px;
+	font-size: 20px;
+	cursor: pointer;
+	width: 75px;
+}
+.o-divider{
+	width: 85%;
+	float: left;
+	border-top: 1px solid rgba(0, 0, 0, 0.08);
+	border-bottom: 1px solid #fff;
+}
+.o-section .o-divider{
+	margin-top: 25px;
+	margin-bottom: 10px;
+
+}
+.o-section{
+	float: left;
+	width: 700px;
+	min-height: 600px;
+}
+.o-header{
+}
+.o-footer{
+	display: none;
+}
+.o-home{
+	display: none;
+}
+.hide{
+	display: none;
+}
+.section-desc{
+	float: left;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 14px;
+}
+.submit-button{
+	float:left;
+	clear: both;
+}
+.active{
+	font-weight: bold;
+	color:#000;
+}
+
+.o-mini-header{
+	float:left;
+	width: 100%;
+	font-size: 20px;
+	color: #000;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	font-weight: 600;
+
+}
+
+
+/** input styles **/
+
+.option-holder{
+	float: left;
+	margin-top: 10px;
+	padding-top: 5px;
+}
+
+.o-comment{
+	float: left;
+	width: 100%;
+	font-size: 11px;
+	color: #888;
+
+}
+
+.o-full{
+	width: 100%;
+}
+.o-half{
+	width: 49%;
+	margin-right:1%;
+}
+.o-third{
+	width: 30%;
+	margin-right: 2%;
+}
+
+.option-holder label{
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	color: #000;
+	margin-bottom: 5px;
+}
+
+.option-holder textarea{
+	width: 100%;
+	height: 100px;
+}
+
+
+.o-img{
+	float: left;
+	max-width: 700px;
+	height: auto;
+}
+.o-img-holder{
+	float: left;
+	width: 100%;
+}
+
+
